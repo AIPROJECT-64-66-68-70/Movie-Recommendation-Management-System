@@ -12,7 +12,6 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://mrswsa.herokuapp.com/
 
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
 
 # Note
 
